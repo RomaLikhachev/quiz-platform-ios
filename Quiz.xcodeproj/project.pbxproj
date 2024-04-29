@@ -256,6 +256,34 @@
 		03F7631A24D474DD003FE75F /* ProUpdateCallback.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03F7631924D474DD003FE75F /* ProUpdateCallback.swift */; };
 		03F7631C24D4753D003FE75F /* ErrorType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03F7631B24D4753D003FE75F /* ErrorType.swift */; };
 		1B0BF324CE37B1AB157A6397 /* Pods_Quiz.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2D62E49FC6AEF47541D40DF4 /* Pods_Quiz.framework */; };
+		5B0BBAA82BB9E4B700821ACB /* FavoriteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B0BBAA72BB9E4B700821ACB /* FavoriteButton.swift */; };
+		5B1137D22BC2FC93003E2408 /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B1137D12BC2FC93003E2408 /* Profile.swift */; };
+		5B1137D42BC2FCC2003E2408 /* ProfileHost.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B1137D32BC2FCC2003E2408 /* ProfileHost.swift */; };
+		5B1137D62BC2FD14003E2408 /* ProfileSummary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B1137D52BC2FD14003E2408 /* ProfileSummary.swift */; };
+		5B1137D82BC2FD9F003E2408 /* HikeBadge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B1137D72BC2FD9F003E2408 /* HikeBadge.swift */; };
+		5B1137DA2BC300F0003E2408 /* ProfileEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B1137D92BC300F0003E2408 /* ProfileEditor.swift */; };
+		5B1137DC2BC305E4003E2408 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B1137DB2BC305E4003E2408 /* PageViewController.swift */; };
+		5B1137DE2BC30651003E2408 /* Page.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B1137DD2BC30651003E2408 /* Page.swift */; };
+		5B1137E02BC307A5003E2408 /* FeatureCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B1137DF2BC307A5003E2408 /* FeatureCard.swift */; };
+		5B1137E22BC3083B003E2408 /* PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B1137E12BC3083B003E2408 /* PageView.swift */; };
+		5B1137E42BC31912003E2408 /* PageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B1137E32BC31912003E2408 /* PageControl.swift */; };
+		5B8927EF2BBF259E0058ED5E /* HexagonParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B8927EE2BBF259E0058ED5E /* HexagonParameters.swift */; };
+		5B8927F12BBF26450058ED5E /* BadgeBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B8927F02BBF26450058ED5E /* BadgeBackground.swift */; };
+		5B8927F32BBF29B00058ED5E /* BadgeSymbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B8927F22BBF29B00058ED5E /* BadgeSymbol.swift */; };
+		5B8927F52BBF2B000058ED5E /* RotatedBadgeSymbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B8927F42BBF2B000058ED5E /* RotatedBadgeSymbol.swift */; };
+		5B8927F72BBF2B7A0058ED5E /* Badge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B8927F62BBF2B7A0058ED5E /* Badge.swift */; };
+		5B8927F92BBF305D0058ED5E /* CategoryHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B8927F82BBF305D0058ED5E /* CategoryHome.swift */; };
+		5B8927FB2BBF32F00058ED5E /* CategoryRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B8927FA2BBF32F00058ED5E /* CategoryRow.swift */; };
+		5B8927FD2BBF33D80058ED5E /* CategoryItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B8927FC2BBF33D80058ED5E /* CategoryItem.swift */; };
+		5BB7D0D82BB98ADF008CCF01 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB7D0D72BB98ADF008CCF01 /* SwiftUIView.swift */; };
+		5BB7D0DA2BB9928A008CCF01 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB7D0D92BB9928A008CCF01 /* CircleImage.swift */; };
+		5BB7D0DC2BB993DC008CCF01 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB7D0DB2BB993DC008CCF01 /* MapView.swift */; };
+		5BB7D0DE2BB99538008CCF01 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB7D0DD2BB99538008CCF01 /* ContentView.swift */; };
+		5BB7D0E02BB99949008CCF01 /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB7D0DF2BB99949008CCF01 /* Landmark.swift */; };
+		5BB7D0E22BB99A51008CCF01 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB7D0E12BB99A51008CCF01 /* ModelData.swift */; };
+		5BB7D0E42BB99AB0008CCF01 /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB7D0E32BB99AB0008CCF01 /* LandmarkRow.swift */; };
+		5BB7D0E62BB99E86008CCF01 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB7D0E52BB99E86008CCF01 /* LandmarkList.swift */; };
+		5BB7D0E82BB9D2B6008CCF01 /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB7D0E72BB9D2B6008CCF01 /* LandmarkDetail.swift */; };
 		61122FBFED4160A7F199EC03 /* Pods_Quiz_QuizUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 94398C725E7BE92DF8A7D69C /* Pods_Quiz_QuizUITests.framework */; };
 		6DFDD0B011B28C5376C2A0D2 /* GameEnd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DFDDCCCCBECFC6F584FBC5F /* GameEnd.swift */; };
 		6DFDD0F685910B2A9B9D14B3 /* FeatureManagerImpl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DFDD7657C55EAE256D7732A /* FeatureManagerImpl.swift */; };
@@ -556,6 +584,34 @@
 		03F7631B24D4753D003FE75F /* ErrorType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorType.swift; sourceTree = "<group>"; };
 		2D62E49FC6AEF47541D40DF4 /* Pods_Quiz.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Quiz.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		55D0037DE0C3BA9C7CF4816B /* Pods-Quiz-QuizUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Quiz-QuizUITests.release.xcconfig"; path = "Target Support Files/Pods-Quiz-QuizUITests/Pods-Quiz-QuizUITests.release.xcconfig"; sourceTree = "<group>"; };
+		5B0BBAA72BB9E4B700821ACB /* FavoriteButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteButton.swift; sourceTree = "<group>"; };
+		5B1137D12BC2FC93003E2408 /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
+		5B1137D32BC2FCC2003E2408 /* ProfileHost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileHost.swift; sourceTree = "<group>"; };
+		5B1137D52BC2FD14003E2408 /* ProfileSummary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileSummary.swift; sourceTree = "<group>"; };
+		5B1137D72BC2FD9F003E2408 /* HikeBadge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeBadge.swift; sourceTree = "<group>"; };
+		5B1137D92BC300F0003E2408 /* ProfileEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileEditor.swift; sourceTree = "<group>"; };
+		5B1137DB2BC305E4003E2408 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
+		5B1137DD2BC30651003E2408 /* Page.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page.swift; sourceTree = "<group>"; };
+		5B1137DF2BC307A5003E2408 /* FeatureCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureCard.swift; sourceTree = "<group>"; };
+		5B1137E12BC3083B003E2408 /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
+		5B1137E32BC31912003E2408 /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
+		5B8927EE2BBF259E0058ED5E /* HexagonParameters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexagonParameters.swift; sourceTree = "<group>"; };
+		5B8927F02BBF26450058ED5E /* BadgeBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeBackground.swift; sourceTree = "<group>"; };
+		5B8927F22BBF29B00058ED5E /* BadgeSymbol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeSymbol.swift; sourceTree = "<group>"; };
+		5B8927F42BBF2B000058ED5E /* RotatedBadgeSymbol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotatedBadgeSymbol.swift; sourceTree = "<group>"; };
+		5B8927F62BBF2B7A0058ED5E /* Badge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Badge.swift; sourceTree = "<group>"; };
+		5B8927F82BBF305D0058ED5E /* CategoryHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryHome.swift; sourceTree = "<group>"; };
+		5B8927FA2BBF32F00058ED5E /* CategoryRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryRow.swift; sourceTree = "<group>"; };
+		5B8927FC2BBF33D80058ED5E /* CategoryItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryItem.swift; sourceTree = "<group>"; };
+		5BB7D0D72BB98ADF008CCF01 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
+		5BB7D0D92BB9928A008CCF01 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		5BB7D0DB2BB993DC008CCF01 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		5BB7D0DD2BB99538008CCF01 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		5BB7D0DF2BB99949008CCF01 /* Landmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
+		5BB7D0E12BB99A51008CCF01 /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
+		5BB7D0E32BB99AB0008CCF01 /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
+		5BB7D0E52BB99E86008CCF01 /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
+		5BB7D0E72BB9D2B6008CCF01 /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 		6DFDD0FB73ECFEEF8E12AD3A /* TelegramConfig.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TelegramConfig.swift; sourceTree = "<group>"; };
 		6DFDD1342B2D69A8FE290329 /* TwoTextViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TwoTextViewCell.swift; sourceTree = "<group>"; };
 		6DFDD18DB24FE44A364F78C3 /* ProfileCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileCell.swift; sourceTree = "<group>"; };
@@ -1092,6 +1148,7 @@
 		033B7AA4245BFEFB00744891 /* UI */ = {
 			isa = PBXGroup;
 			children = (
+				5BB7D0D62BB98AB3008CCF01 /* Content */,
 				033B7AA5245BFF2C00744891 /* Base */,
 				033B7AAD245BFF6A00744891 /* Correct */,
 				033B7AAC245BFF6100744891 /* End */,
@@ -1708,6 +1765,41 @@
 			path = Pods;
 			sourceTree = "<group>";
 		};
+		5BB7D0D62BB98AB3008CCF01 /* Content */ = {
+			isa = PBXGroup;
+			children = (
+				5BB7D0D72BB98ADF008CCF01 /* SwiftUIView.swift */,
+				5BB7D0D92BB9928A008CCF01 /* CircleImage.swift */,
+				5BB7D0DB2BB993DC008CCF01 /* MapView.swift */,
+				5BB7D0DD2BB99538008CCF01 /* ContentView.swift */,
+				5BB7D0DF2BB99949008CCF01 /* Landmark.swift */,
+				5BB7D0E12BB99A51008CCF01 /* ModelData.swift */,
+				5BB7D0E32BB99AB0008CCF01 /* LandmarkRow.swift */,
+				5BB7D0E52BB99E86008CCF01 /* LandmarkList.swift */,
+				5BB7D0E72BB9D2B6008CCF01 /* LandmarkDetail.swift */,
+				5B0BBAA72BB9E4B700821ACB /* FavoriteButton.swift */,
+				5B8927EE2BBF259E0058ED5E /* HexagonParameters.swift */,
+				5B8927F02BBF26450058ED5E /* BadgeBackground.swift */,
+				5B8927F22BBF29B00058ED5E /* BadgeSymbol.swift */,
+				5B8927F42BBF2B000058ED5E /* RotatedBadgeSymbol.swift */,
+				5B8927F62BBF2B7A0058ED5E /* Badge.swift */,
+				5B8927F82BBF305D0058ED5E /* CategoryHome.swift */,
+				5B8927FA2BBF32F00058ED5E /* CategoryRow.swift */,
+				5B8927FC2BBF33D80058ED5E /* CategoryItem.swift */,
+				5B1137D12BC2FC93003E2408 /* Profile.swift */,
+				5B1137D32BC2FCC2003E2408 /* ProfileHost.swift */,
+				5B1137D52BC2FD14003E2408 /* ProfileSummary.swift */,
+				5B1137D72BC2FD9F003E2408 /* HikeBadge.swift */,
+				5B1137D92BC300F0003E2408 /* ProfileEditor.swift */,
+				5B1137DB2BC305E4003E2408 /* PageViewController.swift */,
+				5B1137DD2BC30651003E2408 /* Page.swift */,
+				5B1137DF2BC307A5003E2408 /* FeatureCard.swift */,
+				5B1137E12BC3083B003E2408 /* PageView.swift */,
+				5B1137E32BC31912003E2408 /* PageControl.swift */,
+			);
+			path = Content;
+			sourceTree = "<group>";
+		};
 		6DFDD126F0A840DED75064AF /* FeatureToggle */ = {
 			isa = PBXGroup;
 			children = (
@@ -2026,7 +2118,9 @@
 				033B7B89245C10B700744891 /* StartMode.swift in Sources */,
 				033B7A08245BF53300744891 /* CrashlyticsUtils.swift in Sources */,
 				033B7A18245BF5DA00744891 /* Quest.swift in Sources */,
+				5B1137D62BC2FD14003E2408 /* ProfileSummary.swift in Sources */,
 				033B7A84245BFC8500744891 /* GameProgressProtocol.swift in Sources */,
+				5BB7D0E62BB99E86008CCF01 /* LandmarkList.swift in Sources */,
 				033B7B5D245C0E1000744891 /* ValuePrefViewController.swift in Sources */,
 				033B7A1E245BF61900744891 /* DatabaseMode.swift in Sources */,
 				033B7A51245BF9B300744891 /* PointRepositoryProtocol.swift in Sources */,
@@ -2051,6 +2145,7 @@
 				033B7AF5245C092400744891 /* CorrectPresenterProtocol.swift in Sources */,
 				033B7A96245BFE0D00744891 /* ArcadeProgressCalculatorDelegate.swift in Sources */,
 				033B7AF9245C096B00744891 /* EndSequeExtraArgs.swift in Sources */,
+				5BB7D0DA2BB9928A008CCF01 /* CircleImage.swift in Sources */,
 				03A257F8254C9FE200F498D4 /* SubscribeDate.swift in Sources */,
 				033B7B74245C0F7800744891 /* ProgressPresenterProtocol.swift in Sources */,
 				033B7B57245C0DC900744891 /* NotificationValueItemDataDelegate.swift in Sources */,
@@ -2062,6 +2157,7 @@
 				033B7B17245C0AB600744891 /* RecordEndViewProtocol.swift in Sources */,
 				033B7A36245BF84000744891 /* SectionContract.swift in Sources */,
 				033B7A73245BFB7800744891 /* AnswerAbParserDelegate.swift in Sources */,
+				5B1137E22BC3083B003E2408 /* PageView.swift in Sources */,
 				033B7ADE245C07A100744891 /* ContentViewCellProtocol.swift in Sources */,
 				033B7AE8245C083700744891 /* GameNavigationItem.swift in Sources */,
 				033B7A5F245BFA6C00744891 /* ThemeRepositoryProtocol.swift in Sources */,
@@ -2082,6 +2178,7 @@
 				033B7B91245C110E00744891 /* ThemePresenter.swift in Sources */,
 				033B7B45245C0CB800744891 /* ContentProfileRow.swift in Sources */,
 				0381F04924C3DB9C003A18F3 /* PromoViewData.swift in Sources */,
+				5B8927F92BBF305D0058ED5E /* CategoryHome.swift in Sources */,
 				033B7A45245BF91000744891 /* ConnectionExtension.swift in Sources */,
 				033B7ABD245C005500744891 /* HighlightState.swift in Sources */,
 				033B7B53245C0DA900744891 /* ValueItemDataDelegate.swift in Sources */,
@@ -2089,6 +2186,7 @@
 				033B7A6F245BFB4200744891 /* AbQuestParser.swift in Sources */,
 				033B7B93245C114600744891 /* ReportViewController.swift in Sources */,
 				033B7B95245C117C00744891 /* GameViewController.swift in Sources */,
+				5B1137E42BC31912003E2408 /* PageControl.swift in Sources */,
 				033B7A0B245BF55700744891 /* ContentMode.swift in Sources */,
 				033B79EA245BF3B100744891 /* StaticScope.swift in Sources */,
 				033B7B55245C0DB900744891 /* TransitionValueItemDataDelegate.swift in Sources */,
@@ -2101,6 +2199,7 @@
 				033B799E245BE96400744891 /* SceneDelegate.swift in Sources */,
 				033B79E6245BF36E00744891 /* IocContainer.swift in Sources */,
 				033B7B24245C0B4300744891 /* AnswerGameView.swift in Sources */,
+				5B8927F12BBF26450058ED5E /* BadgeBackground.swift in Sources */,
 				033B7A01245BF4DE00744891 /* DateExtension.swift in Sources */,
 				033B7AEC245C085700744891 /* LifeGameNavigationItemDelegate.swift in Sources */,
 				033B7A55245BF9D900744891 /* ResetRepositoryProtocol.swift in Sources */,
@@ -2134,9 +2233,11 @@
 				033B7B6C245C0F1B00744891 /* ProgressPagePresenter.swift in Sources */,
 				033B7ACD245C05FC00744891 /* ProgressViewCell.swift in Sources */,
 				033B7A8D245BFD1900744891 /* DataManager.swift in Sources */,
+				5B8927FD2BBF33D80058ED5E /* CategoryItem.swift in Sources */,
 				033B7B33245C0C0400744891 /* ProfileTableViewController.swift in Sources */,
 				033B7B31245C0BE800744891 /* ProfileViewProtocol.swift in Sources */,
 				033B7A68245BFAF200744891 /* Mode.swift in Sources */,
+				5B8927FB2BBF32F00058ED5E /* CategoryRow.swift in Sources */,
 				03761F0524C65119002E3B19 /* AppHeaderViewProtocol.swift in Sources */,
 				0381F06024C3DC9D003A18F3 /* PriceFormatterProtocol.swift in Sources */,
 				0381F04624C3DB47003A18F3 /* ProPromoViewController.swift in Sources */,
@@ -2146,9 +2247,11 @@
 				033B7B4B245C0CEA00744891 /* SwitchProfileRow.swift in Sources */,
 				033B7AD3245C065A00744891 /* ModeViewCellProtocol.swift in Sources */,
 				033B7A5A245BFA4200744891 /* ContentRepository.swift in Sources */,
+				5BB7D0DC2BB993DC008CCF01 /* MapView.swift in Sources */,
 				033B7B4E245C0D0700744891 /* ProfileDataSourceProtocol.swift in Sources */,
 				033B7A2F245BF80000744891 /* ModeContract.swift in Sources */,
 				033B7A92245BFDAA00744891 /* ProgressCalculatorProtocol.swift in Sources */,
+				5B1137D22BC2FC93003E2408 /* Profile.swift in Sources */,
 				033B7B02245C09E000744891 /* ErrorTableViewController.swift in Sources */,
 				033B7AB9245C002A00744891 /* AnswerButton.swift in Sources */,
 				033B7ACF245C062700744891 /* ProgressHeaderViewProtocol.swift in Sources */,
@@ -2158,20 +2261,27 @@
 				033B7B86245C109600744891 /* ThemeViewController.swift in Sources */,
 				033B7AEE245C086700744891 /* TimeGameNavigationItemDelegate.swift in Sources */,
 				033B7A34245BF83100744891 /* ErrorContract.swift in Sources */,
+				5B0BBAA82BB9E4B700821ACB /* FavoriteButton.swift in Sources */,
 				033B7B26245C0B5200744891 /* GameViewProtocol.swift in Sources */,
 				033B7A6D245BFB3200744891 /* AbType.swift in Sources */,
+				5BB7D0D82BB98ADF008CCF01 /* SwiftUIView.swift in Sources */,
+				5BB7D0E42BB99AB0008CCF01 /* LandmarkRow.swift in Sources */,
 				033B7A9F245BFE8300744891 /* SectionLevel.swift in Sources */,
 				033B7AF7245C093700744891 /* CorrectPresenter.swift in Sources */,
 				03F7631C24D4753D003FE75F /* ErrorType.swift in Sources */,
+				5BB7D0DE2BB99538008CCF01 /* ContentView.swift in Sources */,
 				033B7AC1245C044F00744891 /* ThemeViewCell.swift in Sources */,
 				0381F04B24C3DBB4003A18F3 /* PromoDataSourceProtocol.swift in Sources */,
 				033B7B0F245C0A5900744891 /* ErrorProgressEndDelegate.swift in Sources */,
 				033B7B39245C0C4C00744891 /* ProfileItemIdentifier.swift in Sources */,
+				5B1137D82BC2FD9F003E2408 /* HikeBadge.swift in Sources */,
 				03A555782462D1AE005BB0A9 /* AdErrorProtocol.swift in Sources */,
 				0381F05624C3DC29003A18F3 /* SubscribePresenter.swift in Sources */,
 				033B7A7A245BFC0A00744891 /* GameProcessDelegate.swift in Sources */,
+				5B8927F32BBF29B00058ED5E /* BadgeSymbol.swift in Sources */,
 				033B7B59245C0DD900744891 /* ValuePrefMode.swift in Sources */,
 				033B7A0D245BF56800744891 /* Percent.swift in Sources */,
+				5B1137DE2BC30651003E2408 /* Page.swift in Sources */,
 				033B7A7E245BFC3A00744891 /* SprintGameProcessDelegate.swift in Sources */,
 				0381F04024C3DAFA003A18F3 /* ProPageViewController.swift in Sources */,
 				033B7B7A245C101500744891 /* SectionSegueProtocol.swift in Sources */,
@@ -2180,6 +2290,7 @@
 				03EFBC9824D491B300991EC3 /* DateFormatterFactory.swift in Sources */,
 				033B7B78245C0FD200744891 /* ProgressPageTableViewController.swift in Sources */,
 				033B7A3D245BF8AB00744891 /* ThemeContract.swift in Sources */,
+				5BB7D0E02BB99949008CCF01 /* Landmark.swift in Sources */,
 				033B7ABF245C043400744891 /* ThemeViewCellProtocol.swift in Sources */,
 				0381F05224C3DC06003A18F3 /* SubscribeViewController.swift in Sources */,
 				033B7ADC245C076B00744891 /* SwitchViewCell.swift in Sources */,
@@ -2197,10 +2308,12 @@
 				033B7AD1245C063A00744891 /* ProgressHeaderView.swift in Sources */,
 				033B7A4D245BF98A00744891 /* UserRepository.swift in Sources */,
 				033B7B63245C0E7E00744891 /* NotificationPreference.swift in Sources */,
+				5B8927F72BBF2B7A0058ED5E /* Badge.swift in Sources */,
 				033B7B7E245C103600744891 /* SectionCollectionViewController.swift in Sources */,
 				033B7ABB245C004100744891 /* AnswerButtonProtocol.swift in Sources */,
 				0381F05B24C3DC62003A18F3 /* ProductKeyDataSource.swift in Sources */,
 				033B7A1C245BF5FE00744891 /* Game.swift in Sources */,
+				5BB7D0E82BB9D2B6008CCF01 /* LandmarkDetail.swift in Sources */,
 				03A59B7324C968B2006A7FDB /* IAPHelperProtocol.swift in Sources */,
 				033B7AC7245C059000744891 /* ErrorViewCellProtocol.swift in Sources */,
 				033B7B84245C108500744891 /* ThemeSegmentedViewProtocol.swift in Sources */,
@@ -2213,6 +2326,7 @@
 				033B7B20245C0B1A00744891 /* BarGameView.swift in Sources */,
 				033B7B22245C0B2E00744891 /* ContentGameView.swift in Sources */,
 				033B79F2245BF42B00744891 /* LineSeparatorFormatter.swift in Sources */,
+				5B1137E02BC307A5003E2408 /* FeatureCard.swift in Sources */,
 				038D36922556A2A5002A0672 /* BuyState.swift in Sources */,
 				033B7A2D245BF7EF00744891 /* UserDatabase.swift in Sources */,
 				0381F04224C3DB18003A18F3 /* ProPagePresenterProtocol.swift in Sources */,
@@ -2223,6 +2337,8 @@
 				033B79FC245BF49000744891 /* DecoderProtocol.swift in Sources */,
 				033B7AA3245BFEBF00744891 /* TransitionPreference.swift in Sources */,
 				033B7A80245BFC5400744891 /* GameProcessProtocol.swift in Sources */,
+				5B1137DA2BC300F0003E2408 /* ProfileEditor.swift in Sources */,
+				5B1137D42BC2FCC2003E2408 /* ProfileHost.swift in Sources */,
 				033B7B49245C0CD900744891 /* ValueProfileRow.swift in Sources */,
 				033B7AD5245C066B00744891 /* ModeViewCell.swift in Sources */,
 				033B7B9C245C129700744891 /* CorrectViewController.swift in Sources */,
@@ -2231,7 +2347,9 @@
 				0381F05924C3DC4D003A18F3 /* ProductKeyDataSourceProtocol.swift in Sources */,
 				033B7A7C245BFC2900744891 /* ContinueGameProcessDelegate.swift in Sources */,
 				033B7B06245C0A0100744891 /* ErrorPresenter.swift in Sources */,
+				5B1137DC2BC305E4003E2408 /* PageViewController.swift in Sources */,
 				033B7B15245C0A9900744891 /* ProgressEndPresenter.swift in Sources */,
+				5B8927F52BBF2B000058ED5E /* RotatedBadgeSymbol.swift in Sources */,
 				033B7B80245C104D00744891 /* SectionPresenterProtocol.swift in Sources */,
 				033B7A6A245BFB0B00744891 /* LevelDegree.swift in Sources */,
 				033B7B5B245C0DFA00744891 /* ValuePrefViewProtocol.swift in Sources */,
@@ -2241,7 +2359,9 @@
 				033B7A03245BF4EE00744891 /* TimeCalculator.swift in Sources */,
 				033B79E8245BF39400744891 /* GlobalScope.swift in Sources */,
 				033B7A3F245BF8BF00744891 /* QuestContract.swift in Sources */,
+				5B8927EF2BBF259E0058ED5E /* HexagonParameters.swift in Sources */,
 				033B7B7C245C102300744891 /* SectionViewProtocol.swift in Sources */,
+				5BB7D0E22BB99A51008CCF01 /* ModelData.swift in Sources */,
 				033B7B0D245C0A4800744891 /* DefaultProgressEndDelegate.swift in Sources */,
 				6DFDD5537B385E1A6895F8C3 /* TwoTextProfileRow.swift in Sources */,
 				6DFDDB534BE233F651BBC877 /* TwoTextViewCellProtocol.swift in Sources */,
@@ -2431,7 +2551,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -2487,7 +2607,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -2509,7 +2629,7 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEVELOPMENT_TEAM = NVVR5ZFHQA;
 				INFOPLIST_FILE = Quiz/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -2621,7 +2741,7 @@
 				CURRENT_PROJECT_VERSION = 17;
 				DEVELOPMENT_TEAM = NVVR5ZFHQA;
 				INFOPLIST_FILE = Quiz/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -2731,7 +2851,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = NVVR5ZFHQA;
 				INFOPLIST_FILE = QuizTests/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -2754,7 +2874,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = NVVR5ZFHQA;
 				INFOPLIST_FILE = QuizTests/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
